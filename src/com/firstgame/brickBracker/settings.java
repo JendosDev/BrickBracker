@@ -1,2 +1,6 @@
-package com.firstgame.brickBracker;public class settings {
+package com.firstgame.brickBracker;
+
+public class settings {
+
+
 }
